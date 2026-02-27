@@ -1,22 +1,25 @@
-<!-- =======================
- Vinay Kalacharla • GitHub Profile README (Designer-grade, ATS-clean)
- Paste into: Vinaykalacharla/Vinaykalacharla README.md
- ======================= -->
+<!-- =========================================================
+  Vinay Kalacharla • GitHub Profile README (Designer-grade / 1% vibe)
+  Paste into: Vinaykalacharla/Vinaykalacharla README.md
+  Tip: Replace placeholders like (repo-link) with your real repo URLs.
+========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=Vinay%20Kalacharla&fontAlign=50&fontAlignY=35&color=0:111827,100:2563EB&fontColor=FFFFFF&desc=Product%20Engineer%20(Web%20%2B%20AI)%20%7C%20React%20%7C%20Python%20%7C%20Machine%20Learning&descAlign=50&descAlignY=60" alt="header" />
+<!-- HERO (clean + premium) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:0B1220,50:111827,100:1D4ED8&text=VINAY%20KALACHARLA&fontSize=44&fontAlignY=42&fontColor=FFFFFF&desc=Product%20Engineer%20(Web%20%2B%20AI)%20%7C%20React%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=70&descSize=16" alt="hero" />
 
-<br/>
+<br/><br/>
 
+<!-- PREMIUM SOCIAL BAR -->
 <a href="https://www.linkedin.com/in/vinay-kalacharla-2243252b9/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Vinaykalacharla" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.vinayk.in" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="mailto:vinay11012006@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -24,67 +27,101 @@
 
 <br/><br/>
 
+<!-- ONE-LINER (minimal + sharp) -->
 <p>
-  <b>AI&ML undergraduate</b> building <b>AI-powered web products</b> — clean UI + intelligence layer.<br/>
-  Projects: <b>LocalMind OS</b>, <b>SkillSense AI</b>, <b>MoM Automation</b>, and <b>Customer-Insight Extraction</b>.
+  <b>AI and ML undergraduate</b> building <b>AI-powered web products</b> — clean UI, reliable pipelines, structured outputs.
 </p>
 
 </div>
 
 ---
 
-## ✦ What I do
-- Build **AI-native web apps** with **React** + **Python/ML**
-- Turn messy inputs into **structured outputs** (insights, roadmaps, action items)
-- Focus on **product flow**: problem → system design → build → iterate → demo
+## ✦ Signature
+- **Build:** React-first interfaces that feel fast and clean  
+- **Think:** product workflows (inputs → reasoning → outputs)  
+- **Ship:** demos that look like products, not prototypes  
 
 ---
 
-## 🚀 Flagship Projects (showcase-ready)
-### **LocalMind OS**
-**Personal knowledge + workflow system** that reduces context switching and improves recall.  
-**Highlights:** structured capture, retrieval-first organization, productivity dashboard.
-
-### **SkillSense AI**
-**Skill-gap scoring + personalized learning roadmap** for students.  
-**Highlights:** score + recommendations + next actions, roadmap generation.
-
-### **MoM Automation**
-**Minutes of Meeting generator** that outputs summary, decisions, action items, owners.  
-**Highlights:** consistent templates, clean formatting, automation-first workflow.
-
-### **Customer-Insight Extraction (Infosys Springboard)**
-Transforms customer feedback into **themes + sentiment cues + decision-ready summaries**.  
-**Highlights:** preprocessing, theme extraction, reporting outputs.
-
----
-
-## 🧰 Tech Stack (with logos)
+## ⚡ Focus Areas
 <div align="center">
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
-
-### Backend / Data
-<img src="https://skillicons.dev/icons?i=python,flask,nodejs,express" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,python,flask,git,github,vscode&perline=9" />
 
 </div>
 
-> If you don’t use Node/Express/Tailwind, remove those icons.
+- **Frontend Engineering:** React, responsive UI, component systems  
+- **Applied ML:** preprocessing, features, evaluation, iteration  
+- **AI Workflows:** structured outputs for insights, roadmaps, and automation  
 
 ---
 
-## 📌 Current Focus
-- Shipping **internship-ready demos** (projects with clean UI + docs + results)
-- Improving ML reliability with **better preprocessing + evaluation**
-- Writing **README-first** repos (clear setup, screenshots, outputs)
+## 🧩 Showcase (flagship work)
+> Keep these 4 as your “top shelf”. Add links + screenshots/gifs later.
+
+### **LocalMind OS**  — *Knowledge + Workflow System*
+**Goal:** reduce mental load by organizing tasks, notes, and learning into one system.  
+**What ships:** structured capture, retrieval-first organization, dashboards.  
+**Tech:** React, JavaScript, Python (planned ML layer).  
+**Repo:** (add-link)
+
+### **SkillSense AI** — *Skill Gap Scoring + Roadmap*
+**Goal:** convert skill inputs into a score and a personalized improvement plan.  
+**What ships:** skill-gap signals, roadmap generation, next-action recommendations.  
+**Tech:** Python, ML logic, structured output templates.  
+**Repo:** (add-link)
+
+### **MoM Automation** — *Minutes of Meeting Generator*
+**Goal:** meeting text to summary, decisions, action items, owners.  
+**What ships:** consistent templates, clean formatting, workflow automation.  
+**Tech:** NLP or LLM prompting, Python, optional web UI.  
+**Repo:** (add-link)
+
+### **Customer Insight Extraction** — *Infosys Springboard*
+**Goal:** convert customer feedback into decision-ready insights.  
+**What ships:** themes, sentiment cues, summary reports.  
+**Tech:** Python, Pandas, text processing.  
+**Repo:** (add-link)
 
 ---
 
-## 📊 GitHub Stats (clean + premium)
+## 🧠 Build Style (the “designer” part)
+- **Minimal UI, maximum clarity** (no clutter)  
+- **Consistency:** naming, folders, components, outputs  
+- **README-first:** quickstart, screenshots, sample inputs/outputs  
+- **Demo-ready:** every project has a clean story: problem → solution → results  
+
+---
+
+## 🧰 Tech Stack (high-level but readable)
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Backend / Data</b></td>
+    <td align="center"><b>ML / Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&perline=5" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,flask,nodejs&perline=5" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=5" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+> Remove icons you don’t use (tailwind/node/linux) to keep it honest.
+
+---
+
+## 📈 Proof (stats, clean theme)
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vinaykalacharla&show_icons=true&hide_border=true&theme=transparent" />
@@ -94,20 +131,18 @@ Transforms customer feedback into **themes + sentiment cues + decision-ready sum
 
 ---
 
-## 🎯 Open To (2026)
-- **Product Engineering Intern**
-- **Frontend Intern (React)**
-- **Applied AI / ML Intern**
+## 🎯 Open to (2026)
+- **Product Engineering Intern**  
+- **Frontend Intern (React)**  
+- **Applied AI / ML Intern**  
 
 ---
 
-## 📫 Contact
+## 📬 Contact
 - **Email:** vinay11012006@gmail.com  
 - **LinkedIn:** linkedin.com/in/vinay-kalacharla-2243252b9  
 - **Portfolio:** www.vinayk.in  
 
----
-
 <div align="center">
-  <i>Build fast. Ship clean. Document like a product.</i>
+  <sub>Design discipline + engineering execution. Ship real products.</sub>
 </div>
