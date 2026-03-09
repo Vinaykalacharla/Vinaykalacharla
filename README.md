@@ -57,7 +57,7 @@
 ---
 
 ## 🧩 Showcase (flagship work)
-> Keep these 4 as your “top shelf”. Add links + screenshots/gifs later.
+
 
 ### **LocalMind OS**  — *Knowledge + Workflow System*
 **Goal:** reduce mental load by organizing tasks, notes, and learning into one system.  
