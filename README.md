@@ -117,7 +117,6 @@
 
 </div>
 
-> Remove icons you don’t use (tailwind/node/linux) to keep it honest.
 
 ---
 
